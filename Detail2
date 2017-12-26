@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<!--
+	Radius by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>About us </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="preview">
+				<div class="inner">
+					<div class="content">
+						<h1>About us</h1>
+						<h2>This gallery was created to be an inspiration for all movie fans.</h2>
+					</div>
+					<a href="index.html" class="button hidden"><span>Let's Go</span></a>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="preview">
+				<div class="inner">
+					<div class="image fit">
+						<img src="images/2.jpg" alt="" />
+					</div>
+					<div class="content">
+						<header>
+							<h2>Findind your favourite photos has never been easier.</h2>
+						</header>
+						<p>Whether you desire images that capture a film legend or a modern actor, you will be spoilt for choice at our gallery.</p>
+						<p>If you would like to find out more information about our  pictures, please do not hesitate to get in touch.</p>
+					</div>
+
+
+		<!-- Footer -->
+			<footer id="footer">
+				<a href="#" class="info fa fa-info-circle"><span>About</span></a>
+				<div class="inner">
+					<div class="content">
+						<h3>Find our contacts in info section</h3>
+						<p>Made by Melnikova Evgenia and Alyona Mashonskaya.</p>
+					</div>
+					<div class="copyright">
+						<h3>Follow me</h3>
+						<ul class="icons">
+
+							<li><a href="https://www.facebook.com/evgenya.melnikova.50" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/sartrvsartire/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+
+						</ul>
+						&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com/">Unsplash</a>.
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
